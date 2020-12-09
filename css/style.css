@@ -1,0 +1,57 @@
+
+* {
+    box-sizing: border-box;
+}
+header,main,footer {
+    overflow-x: hidden;
+}
+img {
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 0.2em;
+    padding: 30px;
+}
+
+h6 {
+    padding: 10px;
+}
+h2 {
+
+    padding: 20px;
+    
+    line-height: 1.5em;
+}
+
+h1 {
+    padding-top: 20px;
+    line-height: 1.5em;
+}
+p {
+    padding: 10px ;
+    margin-top: 30px;
+    line-height: 1.5em;
+}
+
+header.hero {
+    background: linear-gradient(to bottom,#839b97,#cfd3ce);
+}
+div.frd {
+    background: linear-gradient(to bottom,#bbbfca,#e8e8e8);
+}
+
+.cards {
+    padding: 50px;
+}
+footer.yash {
+    background: linear-gradient(to bottom,#8ad7c1,#c6fced);
+    opacity: 0.7;
+}
+section.s1 {
+    background: linear-gradient(to bottom,#cfd3ce,#839b97);
+}
+section.s2 {
+    background: linear-gradient(to bottom,#e8e8e8,#bbbfca);
+}
+section.s3 {
+    background: linear-gradient(to bottom,#839b97,#cfd3ce);
+}
